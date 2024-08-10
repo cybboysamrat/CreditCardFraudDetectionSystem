@@ -18,13 +18,26 @@ Modeling previous credit card transactions with knowledge about the ones that tu
 <h2>Some Screenshots.</h2>
 <h3>Graphical Representation</h3>
 
-![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot1.png)
 
 
-![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot2.png)
+![SS01](https://github.com/user-attachments/assets/dbf5dc9a-aa41-479d-bd41-ced0abb46e5a)
+
+![SS02](https://github.com/user-attachments/assets/8e3db93f-5838-40d3-aef9-ca678242010a)
+
+![SS03](https://github.com/user-attachments/assets/5b5ced53-2e21-44d0-8d91-fd75fe3481e9)
+
+![SS04](https://github.com/user-attachments/assets/63d46175-50a5-4c18-8fcc-80f815b7ab06)
+
+![SS05](https://github.com/user-attachments/assets/dfebcdaa-bc71-45e1-adc7-eea8de6677cf)
+
+![SS06](https://github.com/user-attachments/assets/2adf29ed-440b-4748-89bd-828415a5769d)
+
+![SS07](https://github.com/user-attachments/assets/f6f94d21-168e-4d73-b146-3f506a91e28f)
 
 
-![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot3.png)
 
 
-![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot4.png)
+
+
+
+
